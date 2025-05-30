@@ -23,7 +23,7 @@ Albertin is a Detail-oriented and motivated Data Analyst with Years of hands-on 
 ### 🇳🇬 [Nigeria Inflation Analysis](https://drive.google.com/drive/folders/1P9_ZOTY0MfRMJhUa2fIVWZlpDlDDz0Y_?usp=drive_link)
 Analyzed Nigeria's inflation data over a decade to identify key inflationary drivers and trends affecting cost of living.
 
-**Tools:** Python, Excel  
+**Tools:** SQL, Power BI, Excel 
 
 
 ---
