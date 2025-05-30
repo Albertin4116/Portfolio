@@ -34,7 +34,7 @@ Analyzed Nigeria's inflation data over a decade to identify key inflationary dri
 
 ---
 
-### 🧠 [Hackathon )(https://drive.google.com/drive/folders/1JxpSPyxU50XSYtfRlYTzyJtjkjCrPKIa?usp=drive_link)
+### 🧠 [Hackathon](https://drive.google.com/drive/folders/1JxpSPyxU50XSYtfRlYTzyJtjkjCrPKIa?usp=drive_link)
 
 
 **Tools:** Python (Scikit-learn, Pandas), Jupyter, PowerBi, Excel, SQL SSMS 
