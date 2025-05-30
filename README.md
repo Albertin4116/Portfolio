@@ -50,7 +50,7 @@ Analyzed Nigeria's inflation data over a decade to identify key inflationary dri
 
 ## 📄 Resume
 
-📥 [Download Resume](resume/Albertin_Resume.pdf)
+📥 [Download Resume](https://drive.google.com/file/d/1574jxmylANk2IpdoeQR4uv_DK0qmWDSg/view)
 
 ---
 
