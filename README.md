@@ -1,6 +1,5 @@
 # Portfolio
-# 👋 Hi, I'm Albertin – Data Analyst
-
+# 👋 Hi, I'm Albertin – Data Analysis
 Albertin is a Detail-oriented and motivated Data Analyst with Years of hands-on experience in collecting, cleaning, analyzing, and visualizing data to support business decision-making. She is proficient in SQL, Excel, Python and data visualization tools like Power BI and Tableau. She is skilled at identifying trends, building dashboards, and delivering actionable insights. Adept at collaborating with cross-functional teams and presenting findings in a clear, impactful way. She is committed to continuous learning and data-driven problem solving. As a data analyst with a background in communications, she brings a unique blend of analytical thinking and storytelling. She does not only uncover insights through data but also translates them into clear, compelling narratives that drive informed decisions and align teams around actionable strategies.
 ---
 
