@@ -33,15 +33,15 @@ Analyzed Nigeria's inflation data over a decade to identify key inflationary dri
 ---
 
 ### 🛍️ [E-commerce Performance Review](projects/ecommerce-performance-review/)
-Evaluated an e-commerce platform’s sales, customer retention, and product profitability using SQL and Power BI.
+
 
 **Tools:** SQL, Power BI, Excel  
 **Highlights:** RFM segmentation, interactive dashboard, revenue trend breakdown
 
 ---
 
-### 🧠 [Hackathon – Predictive Insight Project](projects/hackathon-insight-project/)
-Built a churn prediction model during a data hackathon challenge. Presented model performance and recommendations to stakeholders.
+### 🧠 [Hackathon )
+
 
 **Tools:** Python (Scikit-learn, Pandas), Jupyter, PowerBi, Excel, SQL SSMS 
 **Highlights:** 
