@@ -20,23 +20,21 @@ Albertin is a Detail-oriented and motivated Data Analyst with Years of hands-on 
 
 ## 📁 Featured Projects
 
-### 🇳🇬 [Nigeria Inflation Analysis](projects/nigeria-inflation-analysis/)
+### 🇳🇬 [Nigeria Inflation Analysis](https://drive.google.com/drive/folders/1P9_ZOTY0MfRMJhUa2fIVWZlpDlDDz0Y_?usp=drive_link)
 Analyzed Nigeria's inflation data over a decade to identify key inflationary drivers and trends affecting cost of living.
 
 **Tools:** Python, Excel  
-**Highlights:** Time-series analysis, inflation trend visualization, policy implications
+
 
 ---
 
-### 🛍️ [E-commerce Performance Review](projects/ecommerce-performance-review/)
-
+### 🛍️ [E-commerce Performance Review](https://drive.google.com/drive/folders/1AuDbI41G0V-BjoWbjMLoTx_ZT1p1nPbk?usp=drive_link)
 
 **Tools:** SQL, Power BI, Excel  
-**Highlights:** RFM segmentation, interactive dashboard, revenue trend breakdown
 
 ---
 
-### 🧠 [Hackathon )
+### 🧠 [Hackathon )(https://drive.google.com/drive/folders/1JxpSPyxU50XSYtfRlYTzyJtjkjCrPKIa?usp=drive_link)
 
 
 **Tools:** Python (Scikit-learn, Pandas), Jupyter, PowerBi, Excel, SQL SSMS 
