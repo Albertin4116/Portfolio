@@ -1,13 +1,11 @@
 # Portfolio
 # 👋 Hi, I'm Albertin – Data Analysis
-Albertin is a Detail-oriented and motivated Data Analyst with Years of hands-on experience in collecting, cleaning, analyzing, and visualizing data to support business decision-making. She is proficient in SQL, Excel, Python and data visualization tools like Power BI and Tableau. She is skilled at identifying trends, building dashboards, and delivering actionable insights. Adept at collaborating with cross-functional teams and presenting findings in a clear, impactful way. She is committed to continuous learning and data-driven problem solving. As a data analyst with a background in communications, she brings a unique blend of analytical thinking and storytelling. She does not only uncover insights through data but also translates them into clear, compelling narratives that drive informed decisions and align teams around actionable strategies.
+Welcome to my data analytics portfolio! I'm a data analyst with a passion for uncovering insights and solving business problems using data. I specialize in working with SQL, Power BI, Python, and Excel to transform raw datasets into clear, actionable insights that drive decision-making.
+
 ---
 
 ## 🧠 About Me
-
-With experience in analyzing diverse datasets from finance, e-commerce, and national statistics, I enjoy exploring trends, identifying growth opportunities, and presenting data visually for impact. My projects range from economic policy evaluation to customer behavior analytics and real-time dashboard development.
-
-Whether it's developing reports in Power BI, writing efficient SQL queries, or performing exploratory data analysis in Python, I focus on delivering insights that matter.
+Albertin is a Detail-oriented and motivated Data Analyst with Years of hands-on experience in collecting, cleaning, analyzing, and visualizing data to support business decision-making. She is proficient in SQL, Excel, Python and data visualization tools like Power BI and Tableau. She is skilled at identifying trends, building dashboards, and delivering actionable insights. Adept at collaborating with cross-functional teams and presenting findings in a clear, impactful way. She is committed to continuous learning and data-driven problem solving. As a data analyst with a background in communications, she brings a unique blend of analytical thinking and storytelling. She does not only uncover insights through data but also translates them into clear, compelling narratives that drive informed decisions and align teams around actionable strategies.
 
 ---
 
