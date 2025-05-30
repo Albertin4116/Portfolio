@@ -38,7 +38,7 @@ Analyzed Nigeria's inflation data over a decade to identify key inflationary dri
 
 
 **Tools:** Python (Scikit-learn, Pandas), Jupyter, PowerBi, Excel, SQL SSMS 
-**Highlights:** 
+
 
 ---
 
