@@ -44,7 +44,8 @@ Analyzed Nigeria's inflation data over a decade to identify key inflationary dri
 
 ## 📄 Resume
 
-📥 [Download Resume](https://drive.google.com/file/d/1574jxmylANk2IpdoeQR4uv_DK0qmWDSg/view)
+📥 [Download Resume][Data Analysis Resume Revamped.pdf](https://github.com/user-attachments/files/20766164/Data.Analysis.Resume.Revamped.pdf)
+
 
 ---
 
